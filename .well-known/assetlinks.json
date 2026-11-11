@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.moxetas.finanzas",
+      "sha256_cert_fingerprints": [
+        "3A:F2:6F:BE:3A:84:9B:2F:80:E7:9C:61:26:55:C0:DA:FB:DC:58:EB:96:34:13:68:94:A2:37:04:3B:0B:E8:6A"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.moxetas.menu",
+      "sha256_cert_fingerprints": [
+        "1C:D3:51:D3:04:D5:35:54:91:8E:66:AD:D6:E4:9F:45:86:05:4F:AA:34:79:57:B1:4B:21:11:C0:A1:AF:96:1B"
+      ]
+    }
+  }
+]
