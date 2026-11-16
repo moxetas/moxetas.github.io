@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.moxetas.finanzas",
       "sha256_cert_fingerprints": [
-        "3A:F2:6F:BE:3A:84:9B:2F:80:E7:9C:61:26:55:C0:DA:FB:DC:58:EB:96:34:13:68:94:A2:37:04:3B:0B:E8:6A"
+        "3A:F2:6F:BE:3A:84:9B:2F:80:E7:9C:61:26:55:C0:DA:FB:DC:58:EB:96:34:13:68:94:A2:37:04:3B:0B:E8:6A",
+        "BD:D2:9E:8E:49:AD:40:EF:BE:C6:D3:DB:F9:F8:F7:FA:80:0F:D3:A3:04:B5:81:B3:FF:CB:35:90:B1:86:EB:43"
       ]
     }
   },
