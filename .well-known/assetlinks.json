@@ -16,7 +16,8 @@
       "namespace": "android_app",
       "package_name": "io.github.moxetas.menu",
       "sha256_cert_fingerprints": [
-        "1C:D3:51:D3:04:D5:35:54:91:8E:66:AD:D6:E4:9F:45:86:05:4F:AA:34:79:57:B1:4B:21:11:C0:A1:AF:96:1B"
+        "1C:D3:51:D3:04:D5:35:54:91:8E:66:AD:D6:E4:9F:45:86:05:4F:AA:34:79:57:B1:4B:21:11:C0:A1:AF:96:1B",
+        "DF:18:02:89:B4:CD:85:C5:5B:04:EE:AD:BA:E7:0D:13:B2:74:32:01:E2:9B:1F:03:30:C3:68:AE:64:E2:F7:8F"
       ]
     }
   }
